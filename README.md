@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, PHP, SQL**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
-- 📫 How to reach me **saniapimple@outlook.com**
+- 📫 How to reach me **saniapimple@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
