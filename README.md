@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sania-52&show_icons=true&locale=en&layout=compact" alt="sania-52" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sania-52&show_icons=true&locale=en" alt="sania-52" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sania-52&" alt="sania-52" /></p>
