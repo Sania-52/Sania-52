@@ -1,13 +1,13 @@
-<img align="center" alt="" width="400" src="https://pin.it/4JtK7Lo">
-
 <h1 align="center">Hi 👋, I'm Sania Pimple</h1>
+<img align="center" alt="" width="" src="https://pin.it/4JtK7Lo">
 
 <h3 align="center">Full Stack Developer CSE'2025. Aspiring to learn more and more things that can increase my knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sania-52&label=Profile%20views&color=0e75b6&style=flat" alt="sania-52" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank">
+  <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, PHP, SQL**
 
