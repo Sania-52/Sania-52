@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sania Pimple</h1>
-<img align="center" alt="" width="" src="https://pin.it/4JtK7Lo">
+<img align="left"  width="400" src="download (7).jpeg">
 
 <h3 align="center">Full Stack Developer CSE'2025. Aspiring to learn more and more things that can increase my knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
