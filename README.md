@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sania-pimple](www.linkedin.com/in/sania-pimple)
+- 👨‍💻 All of my projects are available at [https://github.com/Sania-52]
 
 - 📝 I regularly write articles on [⚒️Working in Progress]
 
