@@ -1,4 +1,4 @@
-<img align="left"  width="400" src="download (7).jpeg"> <img align="right"  width="400" src="AI Art Lofi Vibes.jpeg">
+<img align="left"  width="200" src="download (7).jpeg"> <img align="right"  width="200" src="AI Art Lofi Vibes.jpeg">
 
 <h1 align="center">Hi 👋, I'm Sania Pimple</h1>
 
