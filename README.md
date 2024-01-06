@@ -1,4 +1,4 @@
-<img align="left"  width="320" src="download (7).jpeg"><img align="center"  width="320" src="AI Art Lofi Vibes.jpeg"> <img align="right"  width="320" src="Hacker Girl and Coder Logos.jpeg">
+<img align="left"  width="320" src="download (7).jpeg"> <img align="right"  width="320" src="AI Art Lofi Vibes.jpeg">
 
 <h1 align="center">Hi 👋, I'm Sania Pimple</h1>
 
