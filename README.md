@@ -5,7 +5,8 @@
 <h3 align="center">Full Stack Developer CSE'2025. Aspiring to learn more and more things that can increase my knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sania-52&label=Profile%20views&color=0e75b6&style=flat" alt="sania-52" /> </p>
+<p align="left"><a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?username=sania-52&label=Profile%20views&color=0e75b6&style=flat" alt="sania-52" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank">
   <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
@@ -35,4 +36,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sania-52&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sania-52&label=Profile%20views&color=0e75b6&style=flat" alt="sania-52" /> </p>
+
 
