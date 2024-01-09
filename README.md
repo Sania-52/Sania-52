@@ -31,4 +31,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sania-52&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sania-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sania-52&show_icons=true&locale=en&layout=compact" alt="sania-52" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sania-52&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
