@@ -1,5 +1,4 @@
 <img align="left"  width="200" src="download (7).jpeg"> <img align="right"  width="200" src="AI Art Lofi Vibes.jpeg">
-
 <h1 align="center">Hi 👋, I'm Sania Pimple</h1>
 
 <h3 align="center">Full Stack Developer CSE'2025. Aspiring to learn more and more things that can increase my knowledge.</h3>
