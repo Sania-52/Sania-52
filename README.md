@@ -30,6 +30,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Sania-52&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sania-52&theme=highcontrast&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sania-52&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sania-52&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
