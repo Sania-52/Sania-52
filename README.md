@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
-- 👨‍💻 All of my projects are available at  [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=purple)][https://github.com/Sania-52]
+- 👨‍💻 All of my projects are available at  [![Github](https://img.shields.io/badge/Github-black.svg?logo=github&logoColor=purple)][https://github.com/Sania-52]
 - Twiiter : [https://twitter.com/Sania_Pimple_52]
 
 
