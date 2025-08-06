@@ -19,7 +19,7 @@
 ## 📞Contact :
 
 - Email Id: saniapimple@outlook.com
-- LinkedIn : Sania Pimple
+- LinkedIn : Sania Pimple[![Linkedin]](https://linkedin.com/sania-pimple)
 - Twitter : @sania_pimple_52 
 
 ## 🌐 Socials:
