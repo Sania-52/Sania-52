@@ -18,9 +18,9 @@
 
 ## 📞Contact :
 
-Email Id: saniapimple@outlook.com
-LinkedIn : Sania Pimple
-Twitter : @sania_pimple_52 
+- Email Id: saniapimple@outlook.com
+- LinkedIn : Sania Pimple
+- Twitter : @sania_pimple_52 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/saniapimple_52) 
