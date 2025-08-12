@@ -20,7 +20,8 @@
 
 - Email Id: saniapimple@outlook.com
 - LinkedIn : Sania Pimple[![Linkedin]](https://linkedin.com/sania-pimple)
-- Twitter : @sania_pimple_52 
+- Twitter : @sania_pimple_52
+- Portfolio : Sania Pimple[![Bento]](https://bento.me/saniapimple)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/saniapimple_52) 
